@@ -81,5 +81,8 @@ html
     .container{
        flex-direction: column; 
     }
+    .header{
+        height:250px;
+    }
 }
 
